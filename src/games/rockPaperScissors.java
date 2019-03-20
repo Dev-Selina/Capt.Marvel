@@ -5,24 +5,23 @@ package games;
 import java.util.Random;
 import java.util.Scanner;
 
-//creates class to
+//creates class called "rock paper scissors"
 public class rockPaperScissors {
+    //New variables being assigned a type
+    String playerName; //Any value within "" called playerName
+    String playerMove; //Declaring undefined String type  variable called playerMove
+    String computerMove; //Declaring undefined String type variable called computerMove
+    int score; //whole number value only for score variable
 
-    String playerName;
-    String playerMove;
-    String computerMove;
-    int score;
-    Scanner myScanner = new Scanner(System.in);
-
+    //main method is always needed
     public static void main(String[] args){
-        rockPaperScissors rps = new rockPaperScissors();
+        rockPaperScissors rps = new rockPaperScissors(); //creates new instance called
         rps.initialiseGame();
     }
 
-
     private void initialiseGame(){
         System.out.println("Enter your name: ");
-        playerName = myScanner.nextLine();
+        Scanner playerName = myScanner.nextLine();
         playGame();
     }
 
