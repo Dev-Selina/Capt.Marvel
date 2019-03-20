@@ -1,8 +1,11 @@
 package games;
 
+//imports collection of classes Random - use of streaming a psuedo random data to gain uncontrolled results
+//import use of scanner that reads input from console (from user)
 import java.util.Random;
 import java.util.Scanner;
 
+//creates class to
 public class rockPaperScissors {
 
     String playerName;
