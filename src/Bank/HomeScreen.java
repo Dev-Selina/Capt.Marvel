@@ -21,8 +21,8 @@ public class HomeScreen {
     //First screen to show login
     //Currently accepts any string login data then moves to account menu
     public void login() {
-        String userID = "MacDaddy";
-        String password = "IamaBOSS";
+        String userID = "f";//"MacDaddy";
+        String password = "d"; //"IamaBOSS";
 //        boolean q = false;
         //Need userID and password
         System.out.println("Welcome to Selina's Banking Solutions.\nPlease enter your userID:");
@@ -59,15 +59,19 @@ public class HomeScreen {
         switch (accountOption){
             case 1:{
                 System.out.println("Current Account");
+                break;
             }
             case 2:{
                 System.out.println("Joint Account");
+                break;
             }
             case 3:{
                 System.out.println("Savings Account");
+                break;
             }
             default:{
-                System.out.println("Account selection invalid, please choose enter an option number.\n");
+                System.out.println("Account selection invalid.");
+                getAccountInfo();
             }
         }
     }
