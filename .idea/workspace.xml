@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca4d5f4-61a5-4af5-bd9f-f7bde18a8f23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1-Bank/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataTypes/META-INF/DataTypes.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataTypes/bank/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataTypes/bank/CurrentAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bank/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bank/HomeScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bank/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Games/MultiplyThatTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/animals/createAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/CurrentAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/games/rockPaperScissors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switches/Parking.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataTypes/song1/duckSong.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataTypes/song1/duckSong.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bank/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bank/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bank/HomeScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bank/HomeScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bank/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bank/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bank/HomeScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bank/HomeScreen.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -207,12 +191,12 @@
       <workItem from="1553345350861" duration="12095000" />
       <workItem from="1553362899149" duration="2270000" />
       <workItem from="1553379215439" duration="5728000" />
-      <workItem from="1553418040260" duration="7299000" />
+      <workItem from="1553418040260" duration="8266000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67233000" />
+    <option name="totallyTimeSpent" value="68200000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
